@@ -1,0 +1,25 @@
+span.a{
+    display: inline;
+    height:100px;
+    width:100px;
+    padding:5px;
+    background-color:indianred;
+    border: 4px solid green;
+}
+span.b{
+    display:block;
+    height:100px;
+    width:100px;
+    padding:5px;
+    background-color:indianred;
+    border: 4px solid green;
+    margin-bottom:10px;
+}
+span.c{
+    display:inline-block;
+    height:100px;
+    width:100px;
+    padding:5px;
+    background-color:indianred;
+    border: 4px solid green;
+}
